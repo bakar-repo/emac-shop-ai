@@ -1,0 +1,5 @@
+{
+  "name": "Emac-Shop",
+  "description": "A modern e-commerce marketplace with a clean and slick UI. Features include product quick view, a sliding cart, pagination, advanced filtering (price, search), sorting, and a promotional hero slider.",
+  "requestFramePermissions": []
+}
